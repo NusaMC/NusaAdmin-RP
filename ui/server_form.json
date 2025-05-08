@@ -1,16 +1,7 @@
-<<<<<<< HEAD
 {
     "namespace": "server_form",
     
     "custom_input@settings_common.option_text_edit": {
         "$max_text_edit_length": 10000
     }
-=======
-{
-    "namespace": "server_form",
-    
-    "custom_input@settings_common.option_text_edit": {
-        "$max_text_edit_length": 10000
-    }
->>>>>>> 79f21b99cae52bac67d6382738a107b1d0bc0301
 }
